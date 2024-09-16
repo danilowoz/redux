@@ -30,6 +30,12 @@ npm install redux
 
 For more details, see [the Installation docs page](https://redux.js.org/introduction/installation).
 
+## Examples
+
+[Run inline sandbox: Async](/examples/async)
+
+[Run inline sandbox: Todos](/examples/todos)
+
 ## Documentation
 
 The Redux docs are located at **https://redux.js.org**:
